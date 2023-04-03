@@ -1,15 +1,10 @@
 # Flutter_cache_manager_dio
 
-[![flutter_cache_manager_dio](https://img.shields.io/pub/v/flutter_cache_manager_dio)](https://pub.dev/packages/flutter_cache_manager_dio)
-
-Language: [English](README.md) | [中文简体](README-zh.md)
-
 flutter_cache_manager with [dio](https://pub.dev/packages/dio)
 
 ## Getting Started
 
-A Dio implementation for [flutter_cache_manager](https://pub.dev/packages/flutter_cache_manager)
-Like [flutter_cache_manager_firebase](https://pub.dev/packages/flutter_cache_manager_firebase)
+A Dio implementation for [flutter_cache_manager_dio](https://pub.dev/packages/flutter_cache_manager_dio_proxy)
 
 ```dart
 var dio = Dio();
